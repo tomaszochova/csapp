@@ -1,0 +1,15 @@
+C:\Users\JančátTomáš.AzureAD.000\Documents\GitHub\csapp\bin\Debug\net7.0\csapp.exe
+C:\Users\JančátTomáš.AzureAD.000\Documents\GitHub\csapp\bin\Debug\net7.0\csapp.deps.json
+C:\Users\JančátTomáš.AzureAD.000\Documents\GitHub\csapp\bin\Debug\net7.0\csapp.runtimeconfig.json
+C:\Users\JančátTomáš.AzureAD.000\Documents\GitHub\csapp\bin\Debug\net7.0\csapp.dll
+C:\Users\JančátTomáš.AzureAD.000\Documents\GitHub\csapp\bin\Debug\net7.0\csapp.pdb
+C:\Users\JančátTomáš.AzureAD.000\Documents\GitHub\csapp\obj\Debug\net7.0\csapp.csproj.AssemblyReference.cache
+C:\Users\JančátTomáš.AzureAD.000\Documents\GitHub\csapp\obj\Debug\net7.0\csapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JančátTomáš.AzureAD.000\Documents\GitHub\csapp\obj\Debug\net7.0\csapp.AssemblyInfoInputs.cache
+C:\Users\JančátTomáš.AzureAD.000\Documents\GitHub\csapp\obj\Debug\net7.0\csapp.AssemblyInfo.cs
+C:\Users\JančátTomáš.AzureAD.000\Documents\GitHub\csapp\obj\Debug\net7.0\csapp.csproj.CoreCompileInputs.cache
+C:\Users\JančátTomáš.AzureAD.000\Documents\GitHub\csapp\obj\Debug\net7.0\csapp.dll
+C:\Users\JančátTomáš.AzureAD.000\Documents\GitHub\csapp\obj\Debug\net7.0\refint\csapp.dll
+C:\Users\JančátTomáš.AzureAD.000\Documents\GitHub\csapp\obj\Debug\net7.0\csapp.pdb
+C:\Users\JančátTomáš.AzureAD.000\Documents\GitHub\csapp\obj\Debug\net7.0\csapp.genruntimeconfig.cache
+C:\Users\JančátTomáš.AzureAD.000\Documents\GitHub\csapp\obj\Debug\net7.0\ref\csapp.dll
