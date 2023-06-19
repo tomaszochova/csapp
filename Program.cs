@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
@@ -8,6 +9,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
         {
             while (true) {
                 Console.WriteLine("Hello World!");
+
+                Thread.Sleep(TimeSpan.FromSeconds(10));
             }
         }
     }
